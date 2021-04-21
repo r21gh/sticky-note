@@ -1,2 +1,2 @@
 
-An sticky note application using React
+A sticky note application using React
